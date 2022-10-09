@@ -13,7 +13,7 @@ export function Header(props) {
     <header className="header">
       <nav className="blue">
         <div className="nav-wrapper container">
-          <a href="#!" className="brand-logo">
+          <a href="/" className="brand-logo">
             React Shop
           </a>
           <Basket

@@ -6,7 +6,7 @@ export function Basket(props) {
   return (
     <a
       className="basket"
-      href="#!"
+      href="#!git"
       onClick={handleShowBasket}
     >
       <i className="fab fa-shopify"></i>
