@@ -1,11 +1,9 @@
-import { Header } from "./components/Header";
-import { Shop } from "./components/Shop";
-import { Footer } from "./components/Footer";
+import { Shop } from "./layout/Shop";
+import { Footer } from "./layout/Footer";
 
 export function App() {
   return (
     <>
-      <Header />
       <Shop />
       <Footer />
     </>
